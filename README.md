@@ -2,6 +2,14 @@
 
 > Transformamos negocios mediante el desarrollo de páginas web inteligentes y la automatización avanzada de flujos de trabajo con Inteligencia Artificial, reduciendo costes de producción y horas de personal.
 
+<div align="center">
+
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![AI Powered](https://img.shields.io/badge/AI-Automation%20%26%20Agents-blueviolet)]()
+[![Web Dev](https://img.shields.io/badge/Web-Modern%20Tech-informational)]()
+
+</div>
+
 ---
 
 ## 💡 ¿Qué hacemos en Naxgus?
