@@ -1,11 +1,36 @@
-<h1 align="center"> Hola 👋, soy Naxgus</h1>
-<h3 align="center">Apasionado en Desarrollo web y WordPress</h3>
+# 🚀 Naxgus | AI-Powered Web Development & Business Automation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/naxgus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="naxgus" height="30" width="40" /></a>
-<a href="https://codepen.io/naxgus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naxgus" height="30" width="40" /></a>
-</p>
+> Transformamos negocios mediante el desarrollo de páginas web inteligentes y la automatización avanzada de flujos de trabajo con Inteligencia Artificial, reduciendo costes de producción y horas de personal.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+
+## 💡 ¿Qué hacemos en Naxgus?
+
+Ayudamos a empresas y profesionales a dar el salto definitivo hacia la eficiencia digital. No solo creamos sitios web modernos y optimizados, sino que integramos sistemas autónomos de IA para eliminar tareas repetitivas, optimizar procesos internos y escalar operaciones sin incrementar los costes de personal.
+
+### 🌟 Pilares Principales:
+* **💻 Web Development con IA:** Creación de plataformas web a medida, interfaces inteligentes y experiencias de usuario dinámicas.
+* **⚡ Automatización de Flujos de Trabajo:** Conexión de sistemas, CRMs, APIs y bases de datos mediante agentes y scripts automatizados.
+* **📉 Reducción de Costes:** Eliminación de cuellos de botella operativos, ahorrando horas de trabajo manual y reduciendo costes fijos de producción.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+Utilizamos herramientas de vanguardia para asegurar rendimiento, escalabilidad e integraciones robustas:
+
+* **IA & Automatización:** Modelos de lenguaje avanzados (OpenAI / Claude), agentes autónomos y flujos lógicos personalizados.
+* **Desarrollo Web:** Tecnologías modernas de Frontend y Backend adaptadas a cada solución.
+* **Integraciones:** APIs REST, webhooks y bases de datos optimizadas para arquitecturas basadas en eventos.
+
+---
+
+## 📂 Estructura del Repositorio
+
+```text
+naxgus/
+├── 📁 automations/     # Scripts y flujos de automatización basados en IA
+├── 📁 web/             # Código y plantillas de desarrollo web
+├── 📁 docs/            # Documentación técnica y guías de implementación
+├── 📄 .env.example     # Plantilla de variables de entorno
+└── 📄 README.md        # Documentación principal del proyecto
